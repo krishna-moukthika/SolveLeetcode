@@ -12,3 +12,10 @@ Collection of LeetCode SQL & pandas questions to ace the coding interview! - Cre
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/krishna-moukthika/SolveLeetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/krishna-moukthika/SolveLeetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/krishna-moukthika/SolveLeetcode/tree/master/1908-recyclable-and-low-fat-products) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1927-maximum-ascending-subarray-sum](https://github.com/krishna-moukthika/SolveLeetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+<!---LeetCode Topics End-->
