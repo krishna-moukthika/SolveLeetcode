@@ -18,9 +18,14 @@ Collection of LeetCode SQL & pandas questions to ace the coding interview! - Cre
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/krishna-moukthika/SolveLeetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/krishna-moukthika/SolveLeetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/krishna-moukthika/SolveLeetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/krishna-moukthika/SolveLeetcode/tree/master/0001-two-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/krishna-moukthika/SolveLeetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
