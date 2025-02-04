@@ -17,5 +17,10 @@ Collection of LeetCode SQL & pandas questions to ace the coding interview! - Cre
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/krishna-moukthika/SolveLeetcode/tree/master/0001-two-sum) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/krishna-moukthika/SolveLeetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/krishna-moukthika/SolveLeetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
