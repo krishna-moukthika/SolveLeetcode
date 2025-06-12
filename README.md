@@ -31,6 +31,7 @@ Collection of LeetCode SQL & pandas questions to ace the coding interview! - Cre
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/krishna-moukthika/SolveLeetcode/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/krishna-moukthika/SolveLeetcode/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/krishna-moukthika/SolveLeetcode/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
